@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 random text file
 !
 
 
 Globt sei die Sonne!
+=======
+test change to random text file
+>>>>>>> 857f042e3d7feac51150f30bc536b0a4bd710d2f
